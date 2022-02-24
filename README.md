@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in everything that I can learn something of
 - 📫 How to reach me: a200103@lazarocardenas.edu.mx
 
-https://static.wikia.nocookie.net/meme-hell/images/5/56/Bee.png/revision/latest?cb=20151123175502
+https://i.pinimg.com/736x/9c/a1/b6/9ca1b6ef0e9493edf7ea23451b117afc.jpg
 
 | Hora                 | Martes                    | Viernes                  | salón |
 |----------------------|---------------------------|--------------------------|-------|
