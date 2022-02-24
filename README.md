@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate in everything that I can learn something of
 - 📫 How to reach me: a200103@lazarocardenas.edu.mx
 
+https://static.wikia.nocookie.net/meme-hell/images/5/56/Bee.png/revision/latest?cb=20151123175502
+
 | Hora                 | Martes                    | Viernes                  | salón |
 |----------------------|---------------------------|--------------------------|-------|
 | 11:o5 a.m  a 12:50pm |  Manto y redes de computo | Manto y redes de computo | 91    |
