@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate in everything that I can learn something of
 - 📫 How to reach me: a200103@lazarocardenas.edu.mx
 
+| Hora                 | Martes                    | Viernes                  | salón |
+|----------------------|---------------------------|--------------------------|-------|
+| 11:o5 a.m  a 12:50pm |  Manto y redes de computo | Manto y redes de computo | 91    |
+
+
 <!---
 Julynai/Julynai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
