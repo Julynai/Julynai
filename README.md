@@ -8,7 +8,7 @@ https://i.pinimg.com/736x/9c/a1/b6/9ca1b6ef0e9493edf7ea23451b117afc.jpg
 
 | Hora                 | Martes                    | Viernes                  | salón |
 |----------------------|---------------------------|--------------------------|-------|
-| 11:o5 a.m  a 12:50pm |  Manto y redes de computo | Manto y redes de computo | 91    |
+| 11:05 a.m  a 12:50pm |  Manto y redes de computo | Manto y redes de computo | 91    |
 
 
 <!---
