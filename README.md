@@ -10,7 +10,8 @@ https://i.pinimg.com/736x/9c/a1/b6/9ca1b6ef0e9493edf7ea23451b117afc.jpg
 |----------------------|---------------------------|--------------------------|-------|
 | 11:05 a.m  a 12:50pm |  Manto y redes de computo | Manto y redes de computo | 91    |
 
-![cooltext405477173862948](https://user-images.githubusercontent.com/99995833/156236280-f93ea472-3700-4e69-8cd5-8d994afef3c7.png)
+![cooltext405477337362888](https://user-images.githubusercontent.com/99995833/156236484-88cb92b6-20ff-4326-9275-65c0d880c49a.png)
+
 
 <!---
 Julynai/Julynai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
